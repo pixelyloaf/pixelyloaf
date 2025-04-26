@@ -9,10 +9,18 @@ testing
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pixelyloaf&show_icons=true&theme=synthwave" alt="Anurag's GitHub stats" />
-</p>
+<details>
+  <summary>spotify status</summary>
 
+  <p align="center">
+    [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ptaewee7gkub7mrc4nzmhj6ifm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ptaewee7gkub7mrc4nzmhj6ifm&redirect=true)
+  </p>
+
+</details>
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixelyloaf&show_icons=true&theme=synthwave)
 
 
 <picture>
