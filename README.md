@@ -5,13 +5,14 @@ i have an obsession with synthwave for some reason
 testing
 <p align="center">
   <a href="https://discord.com/users/921163995665297410">
-    <img align="center" src="https://lanyard.cnrad.dev/api/921163995665297410?theme=dark&showDisplayName=true"/>
+    <img src="https://lanyard.cnrad.dev/api/921163995665297410?theme=dark&showDisplayName=true" alt="Discord Status" />
   </a>
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ptaewee7gkub7mrc4nzmhj6ifm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ptaewee7gkub7mrc4nzmhj6ifm&redirect=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pixelyloaf&show_icons=true&theme=synthwave" alt="Anurag's GitHub stats" />
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixelyloaf&show_icons=true&theme=synthwave)
 
 
 <picture>
