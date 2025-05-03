@@ -2,7 +2,6 @@ uhh idk i like murder drones
 
 i have an obsession with synthwave for some reason
 
-testing
 <p align="center">
   <a href="https://discord.com/users/921163995665297410">
     <img src="https://lanyard.cnrad.dev/api/921163995665297410?theme=dark&showDisplayName=true" alt="Discord Status" />
